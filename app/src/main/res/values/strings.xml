@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="google_icon">logue con google</string>
+    <string name="facebook_icon">loguea con facebook</string>
+    <string name="top_icon">Ya tienes una cuenta?</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Loguearse</string>
+    <string name="forgot_password">Olvidaste tu Contraseña</string>
+    <string name="or">Nuevo Usuario?</string>
+    <string name="new_user_register_now">Registrarte Ahora</string>
+
+    <string-array name="InformaciónOperativo">
+        <item>Android Únicamente</item>
+        <item>IOS Únicamente</item>
+        <item>Android y IOS</item>
+    </string-array>
+
+    <string-array name="manejodeusuarios">
+        <item>No hace falta</item>
+        <item>Si Quiero Tener Usuarios Registrados</item>
+    </string-array>
+
+    <string-array name="blanconegro">
+        <item>Si lo necesito</item>
+        <item>No me resulta necesario</item>
+    </string-array>
+
+    <string-array name="fotosyvideos">
+        <item>Si, necesito manejar multimedia</item>
+        <item>No, no necesito manejar multimedia</item>
+    </string-array>
+</resources>
